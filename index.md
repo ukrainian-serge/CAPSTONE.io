@@ -176,29 +176,11 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <a id="section4"></a>
 
-<!-- <center><iframe src="./imgs_charts/3_helpful_reviews_stars1.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="400"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="1">
-</iframe></center>
-
-<center><iframe src="./imgs_charts/3_helpful_reviews_by_stars2.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="400"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="1">
-</iframe></center> -->
-
-<center><iframe src="./imgs_charts/3_helpful_reviews_by_stars_both.html"
+<center><iframe src="./imgs_charts/3_helpful_votes_by_stars_both.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="600"
     scrolling="no"
     seamless="seamless"
-    frameborder="1">
+    frameborder="">
 </iframe></center>
