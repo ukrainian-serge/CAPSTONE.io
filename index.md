@@ -43,7 +43,7 @@ So it turns out, the thing that kept coming up was...
 
 
 <p style="text-align:left; font-size:30px;">Bill Gates</p>
-<img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
+<center><img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400"></center>
 <p style="text-align:left">William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer, president and chief software architect, while also being the largest individual shareholder until May 2014</p>
 
 *"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." **~ Bill Gates***
@@ -71,7 +71,5 @@ So it turns out, the thing that kept coming up was...
 <p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p>
 
 *‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’. **~ Larry Page***
-
-   
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
