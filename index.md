@@ -107,6 +107,20 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><h2 style="font-size:40px;">About the data</h2></center>
 
+<ul>
+  <li style="text-align:left; font-size:15px;">review_id</li>
+  <li style="text-align:left; font-size:15px;">customer_id</li>
+  <li style="text-align:left; font-size:15px;">product_id</li>
+  <li style="text-align:left; font-size:15px;">product_title</li>
+  <li style="text-align:left; font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">star_rating</a></li>
+  <li style="text-align:left; font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">verified_purchase</a></li>
+  <li style="text-align:left; font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a>
+  <li style="text-align:left; font-size:15px;">total_votes</li>
+  <li style="text-align:left; font-size:15px;"><a href="https://www.amazon.com/gp/vine/help">vine</a></li>
+  <li style="text-align:left; font-size:15px;">review_date</li>
+  <li style="text-align:left; font-size:15px;">season</li>
+</ul>    
+
 <!-- <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
