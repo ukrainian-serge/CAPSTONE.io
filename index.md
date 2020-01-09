@@ -149,9 +149,9 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
 
 <p style="text-align:left; font-size:20px;">2 Month rolling average star rating</p>
-*Use cursor and tool-tips for more granular inspection*
+*<i>Use cursor and tool-tips for more granular inspection</i>*
 
-<center><iframe src="./imgs_charts/2_rolling_avg_star_ratings.html.html"
+<center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
