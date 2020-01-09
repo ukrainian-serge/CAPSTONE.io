@@ -33,7 +33,9 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 <a id="section1"></a>
 <img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600" alt="centered image"/>
 
-<p>“People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice.”<b>~ Charles Bukowski</b></p> 
+*“People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice.”*
+
+**~ Charles Bukowski** 
 
 
 <p>There was a point in my life where I noticed that change was necessary. Although I was unaware of the reasons that contributed to my having these incessant and nagging thoughts of urgency, I knew something had to be done. It turns out that there are plenty of bad-asses(alive and dead) that have been quite forthcoming when approached about their habits and the sources of power with which they forge themselves. With the mighty Internet at my finger tips I went looking for answers.</p>   
@@ -48,8 +50,9 @@ So it turns out, the thing that kept coming up was...
 
 <img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
 
-<i>"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." ~
-Bill Gates</i>
+*"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading."
+
+**~ Bill Gates**
 
 - reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
 - Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
@@ -60,7 +63,8 @@ Bill Gates</i>
 
 <img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
 
-*"The heroes of the books I read ... always felt a duty to save the world,"* ~ 
+*"The heroes of the books I read ... always felt a duty to save the world,"*
+   
 **~ Elon Musk**
 
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
@@ -72,7 +76,8 @@ Bill Gates</i>
 <img src="./imgs_charts/oprah.jfif" style="float: center"
          height="300" width="400">
 
-*"Reading gave me the power to see possibilities beyond what was allowed at the time."* 
+*"Reading gave me the power to see possibilities beyond what was allowed at the time."*
+
 **~ Oprah Gail Winfrey** 
 
 <p style="text-align:left; font-size:30px;">Larry Page</p>
@@ -81,7 +86,8 @@ Bill Gates</i>
 <img src="./imgs_charts/larry_page.jpg" style="float: center"
          height="300" width="400">
 
-*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’.*  
+*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’.*
+
 **~ Larry Page**   
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
