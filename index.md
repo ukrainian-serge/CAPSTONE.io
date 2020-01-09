@@ -55,7 +55,7 @@ So it turns out, the thing that kept coming up was...
 <img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
 <p style="text-align:left">Elon Reeve Musk is an engineer and technology entrepreneur. He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and chief engineer/designer of SpaceX; CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI</p>
 
-*"The heroes of the books I read ... always felt a duty to save the world," **~ Elon Musk***
+*"The heroes of the books I read ... always felt a duty to save the world,"  **~ Elon Musk***
 
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
 - [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon
