@@ -49,8 +49,8 @@ So it turns out, the thing that kept coming up was...
 
 <img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
 
-*"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading."*
-**~ Bill Gates**
+*"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." **~ Bill Gates***
+
 
 - reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
 - Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
@@ -61,9 +61,9 @@ So it turns out, the thing that kept coming up was...
 
 <img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
 
-*"The heroes of the books I read ... always felt a duty to save the world,"*
+*"The heroes of the books I read ... always felt a duty to save the world," **~ Elon Musk***
    
-**~ Elon Musk**
+
 
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
 - [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon
