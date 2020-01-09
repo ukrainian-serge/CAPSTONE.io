@@ -161,7 +161,6 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 </iframe></center>
 
 **Observations:**
-
 - It took `Digital` from 2007 - 2012 to stabilize its rolling averages on Amazon Market
 - 2011 - 2012 both formats took a dip
 - Rolling average of `Paper` **OUTPERFORMS** `Digital` format starting 2014 - onward  
@@ -179,8 +178,18 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><iframe src="./imgs_charts/3_helpful_votes_by_stars_both.html"
     sandbox="allow-same-origin allow-scripts"
-    width="600"
-    height="600"
+    width="625"
+    height="625"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="">
+</iframe></center>
+
+
+<center><iframe src="./imgs_charts/4_helpful_votes_by_stars_both.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="625"
+    height="625"
     scrolling="no"
     seamless="seamless"
     frameborder="">
