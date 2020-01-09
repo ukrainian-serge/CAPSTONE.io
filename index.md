@@ -136,11 +136,11 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
+    width="800"
+    height="450"
     scrolling="no"
     seamless="seamless"
-    frameborder="1">
+    frameborder="">
 </iframe></center>
 
 *For above charts, a random fractional sample of each format was taken(0.01) because of the size of the data set*  
@@ -154,10 +154,10 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html"
     sandbox="allow-same-origin allow-scripts"
     width="600"
-    height="400"
+    height="450"
     scrolling="no"
     seamless="seamless"
-    frameborder="1">
+    frameborder="">
 </iframe></center>
 
 **Observations:**
