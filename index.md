@@ -80,3 +80,13 @@ So it turns out, the thing that kept coming up was...
 
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
+
+
+<iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
