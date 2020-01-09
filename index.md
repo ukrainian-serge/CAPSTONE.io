@@ -1,4 +1,11 @@
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+</style>
 
+<body>
 <h1 style="text-align:center; font-size:40px;">Analysis of Book Review Data</h1>
 
 <img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image">
@@ -46,3 +53,4 @@ So it turns out, the thing that kept coming up was...
          height="300" width="400" alt="centered image">
 </p>
 
+</body>
