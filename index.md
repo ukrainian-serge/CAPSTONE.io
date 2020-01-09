@@ -82,7 +82,7 @@ So it turns out, the thing that kept coming up was...
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
 
 
-<center><h3 style="text-align:left; font-size:30px;">Looks ok so far.. what about some science?</h3></center>
+<center><h3 style="font-size:30px;">Looks ok so far.. what about some science?</h3></center>
 
 <p>A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.</p>
 
