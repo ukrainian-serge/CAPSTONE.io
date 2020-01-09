@@ -85,6 +85,13 @@ So it turns out, the thing that kept coming up was...
 
 <h3 style="text-align:left; font-size:30px;">Looks ok so far.. what about some science?</h3>
 
+A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.
+
+<ol>
+  <li style="text-align:left; font-size:15px;"><a href=https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.12272> Increase intelligence</a></li>
+  <li style="text-align:left; font-size:15px;"><a href=https://n.neurology.org/content/81/4/314>It slows mental decline with age</a></li>
+  <li style="text-align:left; font-size:15px;"><a href=https://science.sciencemag.org/content/342/6156/377.abstract>Can make you more empathetic</a>
+</ol>
 
 
 
