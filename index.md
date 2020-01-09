@@ -35,7 +35,6 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 <img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600" alt="centered image"/>
 
 *“People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice.”*
-
 **~ Charles Bukowski** 
 
 
