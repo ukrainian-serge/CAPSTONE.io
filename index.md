@@ -168,13 +168,15 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><img src=./imgs_charts/books_1.jpg atl='book' height="400" width="600"/></center>
 
-<center><h2 style="font-size:50px;">Analysis of Paper vs Digital Titles</h2></center>
+<center><h2 style="font-size:40px;">Analysis of Paper vs Digital Titles</h2></center>
 
-<p style="text-align:left; font-size:30px;">Top 30 titles sorted by average star rating</p>
+
+
+<p style="text-align:left; font-size:20px;">Top 30 titles sorted by average star rating</p>
 
 <a id="section4"></a>
 
-<center><iframe src="./imgs_charts/3_helpful_reviews_stars1.html"
+<!-- <center><iframe src="./imgs_charts/3_helpful_reviews_stars1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
@@ -187,6 +189,15 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="1">
+</iframe></center> -->
+
+<center><iframe src="./imgs_charts/3_helpful_reviews_by_stars_both.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="600"
     scrolling="no"
     seamless="seamless"
     frameborder="1">
