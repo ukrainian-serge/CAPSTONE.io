@@ -107,7 +107,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><h2 style="font-size:40px;">About the data</h2></center>
 
-<p style="text-align:left; font-size:30px;">List of columns in the data</p>
+###  List of columns in the data
 
 <ul>
   <li style="text-align:left; font-size:15px;">review_id</li>
