@@ -82,7 +82,7 @@ So it turns out, the thing that kept coming up was...
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
 
 
-<center><p style="font-size:30px;">Looks ok so far.. what about some science?</p></center>
+<p style="font-size:30px;">Looks ok so far.. what about some science?</p>
 
 <p>A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.</p>
 
@@ -150,7 +150,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 
 
-<img src=./imgs_charts/books_1.jpg atl='book' height="700" width="800"/>
+<img src=./imgs_charts/books_1.jpg atl='book' height="400" width="600"/>
 
 <center><h2 style="font-size:50px;">Analysis of Paper vs Digital Titles</h2></center>
 
