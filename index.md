@@ -103,8 +103,8 @@ So it turns out, the thing that kept coming up was...
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
-    scrolling="no">
-    <!-- seamless="seamless" -->
-    <!-- frameborder="1" -->
+    scrolling="no"
+    seamless="seamless"
+    frameborder="1">
     
 </iframe></center>
