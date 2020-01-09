@@ -110,9 +110,13 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <ul>
   <li style="font-size:15px;">review_id</li>
+
   <li style="font-size:15px;">customer_id</li>
+
   <li style="font-size:15px;">product_id</li>
+
   <li style="font-size:15px;">product_title</li>
+  
   <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">star_rating</a></li>
   <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">verified_purchase</a></li>
   <li style="font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a>
@@ -139,6 +143,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 </iframe></center>
 
 *For above charts, a random fractional sample of each format was taken(0.01) because of the size of the data set* 
+
 **Observations:**
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
