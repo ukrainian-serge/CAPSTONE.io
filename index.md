@@ -60,15 +60,19 @@ So it turns out, the thing that kept coming up was...
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
 - [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon  
 
+
+
 <p style="text-align:left; font-size:30px;">Oprah Winfrey</p>
-<img src="./imgs_charts/oprah.jfif" style="float: center"height="300" width="400">
-<p style="text-align:left">Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011</p>
+<center><img src="./imgs_charts/oprah.jfif" style="float: center"height="300" width="400">
+<p style="text-align:left">Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011</p></center>
 
 *"Reading gave me the power to see possibilities beyond what was allowed at the time." **~ Oprah Gail Winfrey***  
 
+
+
 <p style="text-align:left; font-size:30px;">Larry Page</p>
-<img src="./imgs_charts/larry_page.jpg" style="float: center"height="200" width="300">
-<p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p>
+<center><img src="./imgs_charts/larry_page.jpg" style="float: center"height="200" width="300">
+<p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p></center>
 
 *‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’. **~ Larry Page***
 
