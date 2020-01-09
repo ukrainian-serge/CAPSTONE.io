@@ -212,7 +212,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <a id="section4"></a>
 
-<center><img src=./imgs_charts/book_vs_ebook.jpg atl='book' height="400" width="600"/></center>
+<center><img src="./imgs_charts/book_vs_ebook.jpg" atl='book' height="400" width="600"/></center>
 
 <h2 style="text-align:left; font-size:50px;">Recommendations</h2>
 
