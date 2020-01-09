@@ -6,7 +6,7 @@
 </style>
 
 
-<h1 style="text-align:center; font-size:40px;">Analysis of Book Review Data</h1>
+<center><h1 style="font-size:50px;">Analysis of Book Review Data</h1></center>
 
 <center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
