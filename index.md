@@ -58,8 +58,7 @@ So it turns out, the thing that kept coming up was...
 *"The heroes of the books I read ... always felt a duty to save the world," **~ Elon Musk***
 
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
-- [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon  
-
+- [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon
 
 
 <p style="text-align:left; font-size:30px;">Oprah Winfrey</p>
