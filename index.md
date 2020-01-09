@@ -24,7 +24,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 <ol>
   <li style="text-align:left; font-size:15px;"><a href='#section1'>My intro on why books</a></li>
-  <li style="text-align:left; font-size:15px;"><a href='#section2'>Data questions</a></li>
+  <li style="text-align:left; font-size:15px;"><a href='#section2'>About the data</a></li>
   <li style="text-align:left; font-size:15px;"><a href='#section3'>Are paper books even relevant anymore?</a></li>
   <li style="text-align:left; font-size:15px;"><a href='#section4'>Analysis of paper vs digital title reviews</a></li>
   <li style="text-align:left; font-size:15px;"><a href='#section5'>Recommendation (END)</a></li>
