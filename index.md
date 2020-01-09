@@ -43,9 +43,9 @@ So it turns out, the thing that kept coming up was...
 
 <h3 style="text-align:left; font-size:40px;">The greats read books</h3>
 
-# <p style="text-align:left; font-size:30px;">Bill Gates</p>
+<p style="text-align:left; font-size:30px;">Bill Gates</p>
 <p style="text-align:left">William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer, president and chief software architect, while also being the largest individual shareholder until May 2014</p>
 
-<img src="./imgs_charts/bill_2.jfif" style="float:center"
+<img aling="middle" src="./imgs_charts/bill_2.jfif"
          height="300" width="400">
 
