@@ -60,7 +60,8 @@ Bill Gates</i>
 
 <img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
 
-<i>"The heroes of the books I read ... always felt a duty to save the world," ~ Elon Musk</i>
+*"The heroes of the books I read ... always felt a duty to save the world,"* ~ 
+**~ Elon Musk**
 
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
 - [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon
