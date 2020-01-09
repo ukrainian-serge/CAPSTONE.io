@@ -186,8 +186,16 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
     frameborder="">
 </iframe></center>
 
+**Observation:**
 
-<center><iframe src="./imgs_charts/4_helpful_votes_by_stars_both.html"
+- Above charts top(`Paper`) and bottom(`Digital`) titles are sorted by their respective `star_rating`
+  - In all but three cases(`"Fearless", "Words of Radiance", "Being Mortal"`), `Paper` takes the cake in terms of helpful reviews written
+  
+*NOTE FROM ANALYST: `Words of Radiance` is one book of an excellent fantasy series!*
+
+<p style="text-align:left; font-size:20px;">Top 30 titles sorted by verified purchase</p>
+
+<center><iframe src="./imgs_charts/4_helpful_votes_by_verified_both.html"
     sandbox="allow-same-origin allow-scripts"
     width="625"
     height="625"
@@ -195,3 +203,22 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
     seamless="seamless"
     frameborder="">
 </iframe></center>
+
+**Observation:**
+
+- Above charts top(`Paper`) and bottom(`Digital`) titles are sorted by their respective `verified_purchase` sums
+  - In all but one case(`The Fault In Our Stars`), `Paper`, again takes the cake
+
+
+<a id="section4"></a>
+
+<center><img src=./imgs_charts/book_vs_ebook.jpg atl='book' height="400" width="600"/></center>
+
+<h2 style="text-align:left; font-size:50px;">Recommendations</h2>
+
+According to this simple analysis, `Paper` takes the cake, at least in terms of review quality. My recommendation? Buy whatever you want, but read the `Paper` reviews as they seem to be very helpful according to hundreds of thousands of review-readers.
+More reading in general is a great idea, so I am not partial to either substrate. Also, cost wasn't taken into consideration during this analysis and that can play a large role in decision making of purchases.
+
+Thanks for reading!
+
+*A notebook with just the notation and interactive charts(no code) will be made available soon*
