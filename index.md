@@ -178,7 +178,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><iframe src="./imgs_charts/3_helpful_votes_by_stars_both.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="600"
     height="600"
     scrolling="no"
     seamless="seamless"
