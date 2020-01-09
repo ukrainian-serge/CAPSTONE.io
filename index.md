@@ -81,7 +81,6 @@ So it turns out, the thing that kept coming up was...
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
 
----
 
 <h3 style="text-align:left; font-size:30px;">Looks ok so far.. what about some science?</h3>
 
@@ -93,7 +92,12 @@ A very small list of studies showing the measurable positive changes that readin
   <li style="text-align:left; font-size:15px;"><a href=https://science.sciencemag.org/content/342/6156/377.abstract>Can make you more empathetic</a>
 </ol>
 
+<hr>
 
+<img src="./imgs_charts/book.jpg" style="float: center"
+         height="400" width="600">
+
+<a id="section2"></a>
 
 
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
