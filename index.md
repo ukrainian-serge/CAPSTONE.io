@@ -54,5 +54,15 @@ Bill Gates</i>
 - reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
 - Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
 
----
+<h2 style="text-align:left; font-size:30px;">Elon Musk</h2>
 
+<p style="text-align:left">Elon Reeve Musk is an engineer and technology entrepreneur. He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and chief engineer/designer of SpaceX; CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI</p>
+
+<img src="./imgs_charts/elon_2.jfif" style="float: center"height="300" width="400">
+
+<i>"The heroes of the books I read ... always felt a duty to save the world," ~ Elon Musk</i>
+
+- [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
+- [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon
+
+---
