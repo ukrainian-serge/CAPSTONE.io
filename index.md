@@ -122,6 +122,19 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
   <li style="font-size:15px;">season</li>
 </ul>    
 
+
+<center><img src="./imgs_charts/kindle.jpg" atl='book' height="400" width="400"/></center>
+
+<center><h2 style="text-align:center-right; font-size:40px;">Is paper in danger?</h2></center>
+
+<h2 style="text-align:left; font-size:20px;">Verified purchase reviews</h2>
+
+
+
+
+
+<a id="section3"></a>
+
 <!-- <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
