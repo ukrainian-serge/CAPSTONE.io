@@ -119,7 +119,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
   <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">star_rating</a></li>
   <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">verified_purchase</a></li>
-  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a>
+  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a></li>
   <li style="font-size:15px;">total_votes</li>
   <li style="font-size:15px;"><a href="https://www.amazon.com/gp/vine/help">vine</a></li>
   <li style="font-size:15px;">review_date</li>
@@ -133,6 +133,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <center><h2 style="text-align:center-right; font-size:40px;">Is paper in danger?</h2></center>
 <a id="section3"></a>
 <p style="text-align:left; font-size:20px;">Verified purchase reviews</p>
+
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -142,8 +143,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
     frameborder="1">
 </iframe></center>
 
-<i>For above charts, a random fractional sample of each format was taken(0.01) because of the size of the data set</i> 
-
-**Observations:**
+*For above charts, a random fractional sample of each format was taken(0.01) because of the size of the data set*  
+**Observations:**  
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
