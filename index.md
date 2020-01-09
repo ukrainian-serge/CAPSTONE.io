@@ -134,7 +134,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <a id="section3"></a>
 <p style="text-align:left; font-size:20px;">Verified purchase reviews</p>
 
-<center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
+<center><iframe src="./imgs_charts/1_verified_purchase_reviews.html"
     sandbox="allow-same-origin allow-scripts"
     width="600"
     height="400"
