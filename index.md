@@ -2,7 +2,6 @@
 .marginauto {
     margin: 10px auto 20px;
     display: block;
-    font: "consolas"
 }
 </style>
 
