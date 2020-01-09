@@ -84,7 +84,7 @@ So it turns out, the thing that kept coming up was...
 
 <h3 style="text-align:left; font-size:30px;">Looks ok so far.. what about some science?</h3>
 
-A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.
+<p>A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.</p>
 
 <ol>
   <li style="text-align:left; font-size:15px;"><a href=https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.12272> Increase intelligence</a></li>
