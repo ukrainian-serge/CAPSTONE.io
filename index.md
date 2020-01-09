@@ -48,8 +48,11 @@ So it turns out, the thing that kept coming up was...
 
 *"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." **~ Bill Gates***
 
-- reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
-- Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
+<ul>
+  <li style="text-align:left; font-size:15px;">reads about<a href="https://www.businessinsider.com/rich-people-like-to-read-2015-8"> 50 books per year</a></li>
+
+  <li style="text-align:left; font-size:15px;">Bill wants you to read<a href='https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4'>these 5 books from 2019 </a></li>
+</ul>
 
 <p style="text-align:left; font-size:30px;">Elon Musk</p>
 <center><img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400"></center>
