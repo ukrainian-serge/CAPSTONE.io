@@ -87,8 +87,9 @@ So it turns out, the thing that kept coming up was...
 <p>A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.</p>
 
 <ol>
-  <li style="font-size:15px;"><a href=https://n.neurology.org/content/81/4/314>It slows mental decline with age</a></li>
-  <li style="font-size:15px;"><a href=https://science.sciencemag.org/content/342/6156/377.abstract>Can make you more empathetic</a>
+  <li style="font-size:15px;"><a href="https://n.neurology.org/content/81/4/314">It slows mental decline with age</a></li>
+
+  <li style="font-size:15px;"><a href="https://science.sciencemag.org/content/342/6156/377.abstract">Can make you more empathetic</a>
 </ol>
 
 <hr>
