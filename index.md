@@ -89,11 +89,11 @@ So it turns out, the thing that kept coming up was...
 
 
 
-<iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
+<center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="1">
-</iframe>
+</iframe></center>
