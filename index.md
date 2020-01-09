@@ -161,12 +161,13 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 </iframe></center>
 
 **Observations:**
+
 - It took `Digital` from 2007 - 2012 to stabilize its rolling averages on Amazon Market
 - 2011 - 2012 both formats took a dip
-- Rolling average of `Paper` **OUTPERFORMS** `Digital` format starting 2014 - onward  
+- Rolling average of `Paper` OUTPERFORMS `Digital` format starting 2014 - onward  
 
 
-<center><img src=./imgs_charts/books_1.jpg atl='book' height="400" width="600"/></center>
+<center><img src="./imgs_charts/books_1.jpg" atl='book' height="400" width="600"/></center>
 
 <center><h2 style="font-size:40px;">Analysis of Paper vs Digital Titles</h2></center>
 
