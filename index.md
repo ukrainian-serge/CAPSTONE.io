@@ -105,6 +105,8 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <p>Welcome to the analysis section. Here you will find some analysis focusing on the debate of <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a>. I want to look and see what the data contained within the reviews can tell us.</p>
 <a id="section2"></a>
 
+<center><h2 style="font-size:40px;">About the data</h2></center>
+
 <!-- <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
