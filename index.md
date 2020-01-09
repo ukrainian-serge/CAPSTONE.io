@@ -148,3 +148,12 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
 
+
+
+<img src=./imgs_charts/books_1.jpg atl='book' height="700" width="800"/>
+
+<center><h2 style="font-size:50px;">Analysis of Paper vs Digital Titles</h2></center>
+
+<p style="text-align:left; font-size:30px;">Top 30 titles sorted by average star rating</p>
+
+<a id="section4"></a>
