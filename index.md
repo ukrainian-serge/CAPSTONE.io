@@ -147,3 +147,4 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 **Observations:**  
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
+
