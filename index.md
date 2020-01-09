@@ -136,8 +136,8 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews.html"
     sandbox="allow-same-origin allow-scripts"
-    width="600"
-    height="450"
+    width="650"
+    height="500"
     scrolling="no"
     seamless="seamless"
     frameborder="">
