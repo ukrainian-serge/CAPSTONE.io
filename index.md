@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center; font-size:60px;">Analysis of Book Review Data</h1>
+<h1 style="text-align:center; font-size:50px;">Analysis of Book Review Data</h1>
 
 <img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="700" width="900">
 
