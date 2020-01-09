@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<img src=./imgs_charts/amazon_opening_logo.jpg atl='amazon logo' height="900" width="900">
 
 You can use the [editor on GitHub](https://github.com/ukrainian-serge/ukrainian-serge.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
