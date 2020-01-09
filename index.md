@@ -51,19 +51,20 @@ So it turns out, the thing that kept coming up was...
 - reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
 - Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
 
-<center><p style="text-align:left; font-size:30px;">Elon Musk</p></center>
-<img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
+<p style="text-align:left; font-size:30px;">Elon Musk</p>
+<center><img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400"></center>
 <p style="text-align:left">Elon Reeve Musk is an engineer and technology entrepreneur. He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and chief engineer/designer of SpaceX; CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI</p>
 
 *"The heroes of the books I read ... always felt a duty to save the world,"  **~ Elon Musk***
+
 <ul>
   <li style="text-align:left; font-size:15px;"><a href='https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1'> List </a>of his favorite books</li>
   <li style="text-align:left; font-size:15px;"><a href='https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4'>List </a>of 12 books that shaped Elon</li>
 </ul>
 
 <p style="text-align:left; font-size:30px;">Oprah Winfrey</p>
-<center><img src="./imgs_charts/oprah.jfif" style="float: center" height="300" width="400">
-<p style="text-align:left">Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011</p></center>
+<center><img src="./imgs_charts/oprah.jfif" style="float: center" height="300" width="400"></center>
+<p style="text-align:left">Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011</p>
 
 *"Reading gave me the power to see possibilities beyond what was allowed at the time." **~ Oprah Gail Winfrey***  
 
