@@ -127,21 +127,18 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <center><img src="./imgs_charts/kindle.jpg" atl='book' height="300" width="400"/></center>
 
 <center><h2 style="text-align:center-right; font-size:40px;">Is paper in danger?</h2></center>
-
-<h2 style="text-align:left; font-size:20px;">Verified purchase reviews</h2>
-
-
-
-
-
 <a id="section3"></a>
-
-<!-- <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
+<p style="text-align:left; font-size:20px;">Verified purchase reviews</p>
+<center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="1">
-    
-</iframe></center> -->
+</iframe></center>
+
+*For above charts, a random fractional sample of each format was taken(0.01) because of the size of the data set* 
+**Observations:**
+
+- `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
