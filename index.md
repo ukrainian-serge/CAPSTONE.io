@@ -151,7 +151,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <p style="text-align:left; font-size:20px;">2 Month rolling average star rating</p>
 *<i>Use cursor and tool-tips for more granular inspection</i>*
 
-<center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html.html"
+<center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
@@ -174,7 +174,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <a id="section4"></a>
 
-<center><iframe src="./imgs_charts/3_helpful_votes_by_stars1.html"
+<center><iframe src="./imgs_charts/3_helpful_reviews_stars1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
@@ -183,7 +183,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
     frameborder="1">
 </iframe></center>
 
-<center><iframe src="./imgs_charts/3_helpful_votes_by_stars2.html"
+<center><iframe src="./imgs_charts/3_helpful_reviews_by_stars2.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="400"
