@@ -136,8 +136,8 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100"
+    width="600"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="1">
@@ -153,8 +153,8 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="100%"
+    width="600"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="1">
