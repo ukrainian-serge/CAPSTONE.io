@@ -103,6 +103,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <center><h3 style="font-size:50px;">Analyze some reviews!</h3></center>
 
 <p>Welcome to the analysis section. Here you will find some analysis focusing on the debate of <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a>. I want to look and see what the data contained within the reviews can tell us.</p>
+
 <a id="section2"></a>
 
 <center><h2 style="font-size:40px;">About the data</h2></center>
@@ -110,17 +111,17 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 ###  List of columns in the data
 
 <ul>
-  <li style="text-align:left; font-size:15px;">review_id</li>
-  <li style="text-align:left; font-size:15px;">customer_id</li>
-  <li style="text-align:left; font-size:15px;">product_id</li>
-  <li style="text-align:left; font-size:15px;">product_title</li>
-  <li style="text-align:left; font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">star_rating</a></li>
-  <li style="text-align:left; font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">verified_purchase</a></li>
-  <li style="text-align:left; font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a>
-  <li style="text-align:left; font-size:15px;">total_votes</li>
-  <li style="text-align:left; font-size:15px;"><a href="https://www.amazon.com/gp/vine/help">vine</a></li>
-  <li style="text-align:left; font-size:15px;">review_date</li>
-  <li style="text-align:left; font-size:15px;">season</li>
+  <li style="font-size:15px;">review_id</li>
+  <li style="font-size:15px;">customer_id</li>
+  <li style="font-size:15px;">product_id</li>
+  <li style="font-size:15px;">product_title</li>
+  <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">star_rating</a></li>
+  <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">verified_purchase</a></li>
+  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a>
+  <li style="font-size:15px;">total_votes</li>
+  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/vine/help">vine</a></li>
+  <li style="font-size:15px;">review_date</li>
+  <li style="font-size:15px;">season</li>
 </ul>    
 
 <!-- <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
