@@ -148,12 +148,46 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
 
+<p style="text-align:left; font-size:20px;">2 Month rolling average star rating</p>
+*Use cursor and tool-tips for more granular inspection*
 
+<center><iframe src="./imgs_charts/2_rolling_avg_star_ratings.html.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="400"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="1">
+</iframe></center>
 
-<img src=./imgs_charts/books_1.jpg atl='book' height="400" width="600"/>
+**Observations:**
+
+- It took `Digital` from 2007 - 2012 to stabilize its rolling averages on Amazon Market   
+- 2011 - 2012 both formats took a dip
+- Rolling average of `Paper` **OUTPERFORMS** `Digital` format starting 2014 - onward
+
+<center><img src=./imgs_charts/books_1.jpg atl='book' height="400" width="600"/></center>
 
 <center><h2 style="font-size:50px;">Analysis of Paper vs Digital Titles</h2></center>
 
 <p style="text-align:left; font-size:30px;">Top 30 titles sorted by average star rating</p>
 
 <a id="section4"></a>
+
+<center><iframe src="./imgs_charts/3_helpful_votes_by_stars1.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="400"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="1">
+</iframe></center>
+
+<center><iframe src="./imgs_charts/3_helpful_votes_by_stars2.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="400"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="1">
+</iframe></center>
