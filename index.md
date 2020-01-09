@@ -102,7 +102,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><h3 style="font-size:50px;">Analyze some reviews!</h3></center>
 
-<p>Welcome to the analysis section. Here you will find some analysis focusing on the debate of <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a>. I want to look and see what the data contained within the reviews can tell us.</p>
+<p>Welcome to the analysis section. Here you will look into the <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a> debate. I want to investigate what the data contained within the reviews can tell us.</p>
 
 <a id="section2"></a>
 
@@ -120,6 +120,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
   <li style="font-size:15px;"><a href="https://www.amazon.com/gp/vine/help">vine</a></li>
   <li style="font-size:15px;">review_date</li>
   <li style="font-size:15px;">season</li>
+
 </ul>    
 
 
