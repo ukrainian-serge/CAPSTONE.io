@@ -35,19 +35,17 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 *“People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice.” **~ Charles Bukowski***
  
-
-
 <p>There was a point in my life where I noticed that change was necessary. Although I was unaware of the reasons that contributed to my having these incessant and nagging thoughts of urgency, I knew something had to be done. It turns out that there are plenty of bad-asses(alive and dead) that have been quite forthcoming when approached about their habits and the sources of power with which they forge themselves. With the mighty Internet at my finger tips I went looking for answers.</p>   
-
 
 So it turns out, the thing that kept coming up was...
 
 <h3 style="text-align:left; font-size:40px;">The greats read books</h3>
 
+
 <p style="text-align:left; font-size:30px;">Bill Gates</p>
-<p style="text-align:left">William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer, president and chief software architect, while also being the largest individual shareholder until May 2014</p>
 
 <img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
+<p style="text-align:left">William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer, president and chief software architect, while also being the largest individual shareholder until May 2014</p>
 
 *"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." **~ Bill Gates***
 
@@ -82,10 +80,10 @@ So it turns out, the thing that kept coming up was...
 <p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p>
 
 <img src="./imgs_charts/larry_page.jpg" style="float: center"
-         height="300" width="400">
+         height="200" width="300">
 
-*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’.*
+*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’. **~ Larry Page***
 
-**~ Larry Page**   
+   
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
