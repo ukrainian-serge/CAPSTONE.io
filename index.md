@@ -28,7 +28,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 ---
 
 <a id="section1"></a>
-<img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="700" width="900"/>
+<img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="500" width="600"/>
 
 
 ```
