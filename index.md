@@ -5,20 +5,18 @@
 }
 </style>
 
-<body>
+
 <h1 style="text-align:center; font-size:40px;">Analysis of Book Review Data</h1>
 
 <img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image">
 
 
 
----
-Sergey Kamilchu  
+
+<i>Sergey Kamilchu</i>  
 Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
----
 
-<!-- <img src=./imgs_charts/book.jpg atl='book' height="900" width="900"/> -->
 
 <h2 style="text-align:left; font-size:20px;">Project Index</h2>
 
@@ -51,4 +49,3 @@ So it turns out, the thing that kept coming up was...
 <img src="./imgs_charts/bill_2.jfif" style="float: center"
          height="300" width="400" alt="centered image">
 
-</body>
