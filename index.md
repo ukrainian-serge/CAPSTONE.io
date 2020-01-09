@@ -74,9 +74,9 @@ So it turns out, the thing that kept coming up was...
 <img src="./imgs_charts/oprah.jfif" style="float: center"
          height="300" width="400">
 
-*"Reading gave me the power to see possibilities beyond what was allowed at the time."*
+*"Reading gave me the power to see possibilities beyond what was allowed at the time." **~ Oprah Gail Winfrey***
 
-**~ Oprah Gail Winfrey** 
+ 
 
 <p style="text-align:left; font-size:30px;">Larry Page</p>
 <p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p>
