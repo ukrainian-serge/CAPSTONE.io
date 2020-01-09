@@ -50,8 +50,7 @@ So it turns out, the thing that kept coming up was...
 
 <img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
 
-*"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading."
-
+*"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading."*
 **~ Bill Gates**
 
 - reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
