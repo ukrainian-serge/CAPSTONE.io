@@ -58,7 +58,7 @@ Bill Gates</i>
 
 <p style="text-align:left">Elon Reeve Musk is an engineer and technology entrepreneur. He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and chief engineer/designer of SpaceX; CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI</p>
 
-<img src="./imgs_charts/elon_2.jfif" style="float: center"height="300" width="400">
+<img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
 
 <i>"The heroes of the books I read ... always felt a duty to save the world," ~ Elon Musk</i>
 
