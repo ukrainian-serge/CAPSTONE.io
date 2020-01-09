@@ -46,6 +46,13 @@ So it turns out, the thing that kept coming up was...
 <p style="text-align:left; font-size:30px;">Bill Gates</p>
 <p style="text-align:left">William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer, president and chief software architect, while also being the largest individual shareholder until May 2014</p>
 
-<img aling="middle" src="./imgs_charts/bill_2.jfif"
-         height="300" width="400">
+<img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
+
+<i>"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." ~
+Bill Gates</i>
+
+- reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
+- Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
+
+---
 
