@@ -95,14 +95,15 @@ So it turns out, the thing that kept coming up was...
 <hr>
 
 <center><img src="./imgs_charts/book.jpg" height="400" width="600"></center>
-<a id="section2"></a>
+
 <p>It used to be you couldn't catch me dead with a book! But after appreciation and careful consideration of the potential of the positive impact that books can have on one's self, I had no choice but to give it an honest go of acquiring the taste.  
 So ends the intro and hopefully I've nudged you into wanting to either acquaint or re-acquaint yourself with some reading habits.</p>
 
 
-<center><h2 style="font-size:50px;">Analyze some reviews!</h2></center>
+<center><h3 style="font-size:50px;">Analyze some reviews!</h3></center>
 
 <p>Welcome to the analysis section. Here you will find some analysis focusing on the debate of <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a>. I want to look and see what the data contained within the reviews can tell us.</p>
+<a id="section2"></a>
 
 <!-- <center><iframe src="./imgs_charts/1_verified_purchase_reviews_by_years.html"
     sandbox="allow-same-origin allow-scripts"
