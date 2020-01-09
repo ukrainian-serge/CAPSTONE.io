@@ -71,7 +71,8 @@ Bill Gates</i>
 <img src="./imgs_charts/oprah.jfif" style="float: center"
          height="300" width="400">
 
-<i>"Reading gave me the power to see possibilities beyond what was allowed at the time." ~ Oprah Gail Winfrey</i>  
+*"Reading gave me the power to see possibilities beyond what was allowed at the time."* 
+**~ Oprah Gail Winfrey** 
 
 <p style="text-align:left; font-size:30px;">Larry Page</p>
 <caption style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</caption>
@@ -80,8 +81,7 @@ Bill Gates</i>
          height="300" width="400">
 </p>
 
-*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’.* ~ 
-
-**Larry Page**   
+*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’.*  
+**~ Larry Page**   
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
