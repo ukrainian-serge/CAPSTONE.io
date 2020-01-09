@@ -124,7 +124,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 </ul>    
 
 
-<center><img src="./imgs_charts/kindle.jpg" atl='book' height="400" width="400"/></center>
+<center><img src="./imgs_charts/kindle.jpg" atl='book' height="300" width="400"/></center>
 
 <center><h2 style="text-align:center-right; font-size:40px;">Is paper in danger?</h2></center>
 
