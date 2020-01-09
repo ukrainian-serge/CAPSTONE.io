@@ -43,44 +43,32 @@ So it turns out, the thing that kept coming up was...
 
 
 <p style="text-align:left; font-size:30px;">Bill Gates</p>
-
 <img src="./imgs_charts/bill_2.jfif" style="float:center" height="300" width="400">
 <p style="text-align:left">William Henry Gates III is an American business magnate, software developer, investor, and philanthropist. He is best known as the co-founder of Microsoft Corporation. During his career at Microsoft, Gates held the positions of chairman, chief executive officer, president and chief software architect, while also being the largest individual shareholder until May 2014</p>
 
 *"Whether I'm at the office, at home, or on the road, I always have a stack of books I'm looking forward to reading." **~ Bill Gates***
 
-
 - reads about [50 books per year](https://www.businessinsider.com/rich-people-like-to-read-2015-8), which breaks down to 1 per week  
 - Bill wants you to read [these 5 books from 2019](https://time.com/5746591/bill-gates-best-books-2019/)
 
 <p style="text-align:left; font-size:30px;">Elon Musk</p>
-
+<img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
 <p style="text-align:left">Elon Reeve Musk is an engineer and technology entrepreneur. He holds South African, Canadian, and U.S. citizenship and is the founder, CEO, and chief engineer/designer of SpaceX; CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI</p>
 
-<img src="./imgs_charts/elon_2.jfif" style="float: center" height="300" width="400">
-
 *"The heroes of the books I read ... always felt a duty to save the world," **~ Elon Musk***
-   
-
 
 - [List](https://www.businessinsider.com/elon-musk-favorite-books-2014-10?op=1) of his favorite books   
 - [List](https://www.businessinsider.com/books-elon-musk-thinks-everyone-should-read-2018-4) of 12 books that shaped Elon
 
 <p style="text-align:left; font-size:30px;">Oprah Winfrey</p>
+<img src="./imgs_charts/oprah.jfif" style="float: center"height="300" width="400">
 <p style="text-align:left">Oprah Gail Winfrey is an American media executive, actress, talk show host, television producer, and philanthropist. She is best known for her talk show, The Oprah Winfrey Show, broadcast from Chicago, which was the highest-rated television program of its kind in history and ran in national syndication for 25 years from 1986 to 2011</p>
-
-<img src="./imgs_charts/oprah.jfif" style="float: center"
-         height="300" width="400">
 
 *"Reading gave me the power to see possibilities beyond what was allowed at the time." **~ Oprah Gail Winfrey***
 
- 
-
 <p style="text-align:left; font-size:30px;">Larry Page</p>
+<img src="./imgs_charts/larry_page.jpg" style="float: center"height="200" width="300">
 <p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p>
-
-<img src="./imgs_charts/larry_page.jpg" style="float: center"
-         height="200" width="300">
 
 *‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’. **~ Larry Page***
 
