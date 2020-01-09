@@ -32,8 +32,6 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
   <li style="text-align:left; font-size:15px;"><a href='#section5'>Recommendation (END)</a></li>
 </ol>
 
----
-
 <a id="section1"></a>
 <img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600" alt="centered image"/>
 
