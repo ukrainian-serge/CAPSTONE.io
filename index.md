@@ -1,16 +1,11 @@
-<style>
-.marginauto {
-    margin: 10px auto 20px;
-    display: block;
-}
-</style>
 
 
 <center><h1 style="font-size:50px;">Analysis of Book Review Data</h1></center>
 
 <center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
-
+![Website](https://img.shields.io/website?label=project%20repo&up_color=rgb%2885%2C%20146%2C%20189%29&url=https%3A%2F%2Fgithub.com%2Fukrainian-serge%2Famazon_product_reviews)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_product_reviews/master)
 
 
 <i>Sergey Kamilchu</i>  
