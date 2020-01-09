@@ -39,7 +39,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 So it turns out, the thing that kept coming up was...
 
-<h3 style="text-align:left; font-size:40px;">The greats read books</h3>
+<center><h3 style="text-align:left; font-size:40px;">The greats read books</h3></center>
 
 
 <p style="text-align:left; font-size:30px;">Bill Gates</p>
