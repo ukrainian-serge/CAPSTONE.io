@@ -88,7 +88,6 @@ So it turns out, the thing that kept coming up was...
 
 <ol>
   <li style="font-size:15px;"><a href="https://n.neurology.org/content/81/4/314">It slows mental decline with age</a></li>
-
   <li style="font-size:15px;"><a href="https://science.sciencemag.org/content/342/6156/377.abstract">Can make you more empathetic</a>
 </ol>
 
