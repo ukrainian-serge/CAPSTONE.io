@@ -73,6 +73,7 @@ So it turns out, the thing that kept coming up was...
 <center><img src="./imgs_charts/larry_page.jpg" style="float: center" height="300" width="400">
 <p style="text-align:left;">Lawrence Edward Page is an American computer scientist and Internet entrepreneur. He is best known for being one of the co-founders of Google along with Sergey Brin. Page was the chief executive officer of Alphabet Inc. until stepping down on December 3, 2019</p></center>
 
-*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’. **~ Larry Page***
+*‘It’s not necessary to go to school to launch a business. I read a whole shelf of business books and that was basically all I needed’. **~ Larry Page***  
+
 
 - [Books list](http://www.favobooks.com/enterpreneurs/110-Larry-Page-books-that-stimulate-your-mind.html) he was influenced by
