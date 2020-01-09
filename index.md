@@ -1,7 +1,7 @@
 
 <h1 style="text-align:center; font-size:40px;">Analysis of Book Review Data</h1>
 
-<img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600">
+<img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image">
 
 
 
@@ -28,7 +28,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 ---
 
 <a id="section1"></a>
-<img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600"/>
+<img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600" alt="centered image"/>
 
 
 ```
