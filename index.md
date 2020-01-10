@@ -147,10 +147,13 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 ---
 
-<p style="text-align:right;"><b>NOTE</b> Every chart from here on: Use chart right-side toolbar for data inspection</p>
+<p style="text-align:right;"><b>NOTE</b> Every chart from here on: Use chart right-side toolbar to <b>pan, zoom, etc.</b></p>
+
+<p style="text-align:right;" >HOVER cursor inspection of data points</p>
+<p style="text-align:right;" ><b>RESET</b> to re-align</p>
 
 <p style="text-align:left; font-size:20px;">Rolling average star rating Books vs eBooks</p>
-*<i>Use cursor and tool-tips for more granular inspection</i>*
+
 
 <center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html"
     sandbox="allow-same-origin allow-scripts"
