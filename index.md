@@ -146,13 +146,16 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
 
 ---
-<p style="text-align:center;"><b>NOTE</b> Every chart from here on, use chart right-side toolbar to:</p>
-<ul style="text-align:left;">
+
+<h3 style="text-align:left; font-size:15px;"><b>NOTE:</b> Every chart from here on, use chart right-side toolbar to:</h3>
+<ul style="text-align:left; font-size:15px;">
   <li style="text-align:left;"><b>PAN</b></li>
   <li style="text-align:left;"><b>ZOOM</b></li>
   <li style="text-align:left;"><b>HOVER</b> cursor for inspection of data points</li>
   <li style="text-align:left;"><b>RESET</b> to re-align</li>
 </ul>
+
+---
 
 <p style="text-align:left; font-size:20px;">Rolling average star rating Books vs eBooks</p>
 
