@@ -1,6 +1,6 @@
 
 
-<center><h1 style="font-size:50px;">Analysis of Book Review Data</h1></center>
+<center><h1 style="font-size:50px;">Analysis of Book vs eBook Review Data</h1></center>
 
 <center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
@@ -123,7 +123,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 </ul>    
 
 
-<center><img src="./imgs_charts/kindle.jpg" atl='book' height="300" width="400"/></center>
+<center><img src="./imgs_charts/kindle.jpg" atl='book' height="300" width="500"/></center>
 
 <center><h2 style="text-align:center-right; font-size:40px;">Is paper in danger?</h2></center>
 <a id="section3"></a>
