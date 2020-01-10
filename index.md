@@ -125,9 +125,11 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <center><img src="./imgs_charts/kindle.jpg" atl='book' height="300" width="500"/></center>
 
-<center><h2 style="text-align:center-right; font-size:40px;">Is paper in danger?</h2></center>
+<center><h2 style="text-align:center; font-size:40px;">Is paper in danger?</h2></center>
+
+<p style="text-align:left; font-size:15px;">Did introduction of digital ebooks produce decline in verified purchases of paper books?</p>
 <a id="section3"></a>
-<p style="text-align:left; font-size:20px;">Verified purchase reviews</p>
+<p style="text-align:left; font-size:20px;">Verified purchase reviews distributions chart below</p>
 
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews.html"
     sandbox="allow-same-origin allow-scripts"
