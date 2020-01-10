@@ -4,7 +4,8 @@
 
 <center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
-![Website](https://img.shields.io/website?label=project%20repo&up_color=rgb%2885%2C%20146%2C%20189%29&url=https%3A%2F%2Fgithub.com%2Fukrainian-serge%2Famazon_product_reviews)
+<p style="text-align:left; font-size:15px;">Github repo to full jupyter notebooks containing: data prep, PostgreSQL database creation, and this analysis available <a href="https://github.com/ukrainian-serge/amazon_product_reviews">HERE</a></p>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_product_reviews/master)
 
 
