@@ -19,7 +19,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 *use these hyper links to jump to different sections*
 
 <ol>
-  <li style="text-align:left; font-size:15px;"><a href='#section1'>My intro on why books</a></li>
+  <li style="text-align:left; font-size:15px;"><a href='#section1'>Why be interested in books?</a></li>
   <li style="text-align:left; font-size:15px;"><a href='#section2'>About the data</a></li>
   <li style="text-align:left; font-size:15px;"><a href='#section3'>Are paper books even relevant anymore?</a></li>
   <li style="text-align:left; font-size:15px;"><a href='#section4'>Analysis of paper vs digital title reviews</a></li>
@@ -28,12 +28,6 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 <a id="section1"></a>
 <center><img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600" alt="centered image"/></center>
-
-*“People are strange: They are constantly angered by trivial things, but on a major matter like totally wasting their lives, they hardly seem to notice.” **~ Charles Bukowski***
- 
-<p>There was a point in my life where I noticed that change was necessary. Although I was unaware of the reasons that contributed to my having these incessant and nagging thoughts of urgency, I knew something had to be done. It turns out that there are plenty of bad-asses(alive and dead) that have been quite forthcoming when approached about their habits and the sources of power with which they forge themselves. With the mighty Internet at my finger tips I went looking for answers.</p>   
-
-So it turns out, the thing that kept coming up was...
 
 <center><h3 style="font-size:40px;">The greats read books</h3></center>
 
@@ -92,11 +86,8 @@ So it turns out, the thing that kept coming up was...
 
 <center><img src="./imgs_charts/book.jpg" height="400" width="600"></center>
 
-<p>It used to be you couldn't catch me dead with a book! But after appreciation and careful consideration of the potential of the positive impact that books can have on one's self, I had no choice but to give it an honest go of acquiring the taste.  
-So ends the intro and hopefully I've nudged you into wanting to either acquaint or re-acquaint yourself with some reading habits.</p>
 
-
-<center><h3 style="font-size:50px;">Analyze some reviews!</h3></center>
+<center><h3 style="font-size:50px;">Book or eBook?</h3></center>
 
 <p>Welcome to the analysis section. Here you will look into the <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a> debate. I want to investigate what the data contained within the reviews can tell us.</p>
 
@@ -105,21 +96,34 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <center><h2 style="font-size:40px;">About the data</h2></center>
 
 <ul>
-  <li style="font-size:15px;">review_id</li>
+  <li style="font-size:15px;"><b>review_id</b></li>
+  <ul>
+    <li>unique identifier for each row(observation) </li>
+  </ul>
+  <li style="font-size:15px;"><b>customer_id</b></li>
+  <li style="font-size:15px;"><b>product_id</b>, eg.,</li>
+  <ul>
+    <li>The Gulag Archipelago on <b>paper</b>
+      <ul>
+        <li>paper back<b> product_id:</b> A001</li>
+        <li>hard cover<b> product_id:</b> A002</li>
+        <li><b>...</b></li>
+      </ul>
+    <li>The Gulag Archipelago on <b>digital</b>
+      <ul>
+        <li>kindle<b> product_id:</b> B001</li>
+        <li>audio book<b> product_id:</b> B002</li>
+        <li><b>...</b></li>
+      </ul>
+  </ul>
+  <li style="font-size:15px;"><b>product_title</b></li>
 
-  <li style="font-size:15px;">customer_id</li>
-
-  <li style="font-size:15px;">product_id</li>
-
-  <li style="font-size:15px;">product_title</li>
-
-  <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">star_rating</a></li>
-  <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6">verified_purchase</a></li>
-  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html">helpful_votes</a></li>
-  <li style="font-size:15px;">total_votes</li>
-  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/vine/help">vine</a></li>
-  <li style="font-size:15px;">review_date</li>
-  <li style="font-size:15px;">season</li>
+  <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6"><b>star_rating</b></a></li>
+  <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6"><b>verified_purchase</b></a></li>
+  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/customer-reviews/top-reviewer-faq.html"><b>helpful_votes</b></a></li>
+  <li style="font-size:15px;"><b>total_votes</b></li>
+  <li style="font-size:15px;"><a href="https://www.amazon.com/gp/vine/help"><b>vine</b></a></li>
+  <li style="font-size:15px;"><b>review_date</b></li>
 
 </ul>    
 
@@ -130,7 +134,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 <p style="text-align:left; font-size:15px;">Did introduction of digital ebooks produce decline in verified purchases of paper books?</p>
 <a id="section3"></a>
-<p style="text-align:left; font-size:20px;">Verified purchase reviews distributions chart below</p>
+<p style="text-align:left; font-size:20px;">Verified purchase reviews distributions chart</p>
 
 <center><iframe src="./imgs_charts/1_verified_purchase_reviews.html"
     sandbox="allow-same-origin allow-scripts"
@@ -151,7 +155,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 <h3 style="text-align:left; font-size:15px;"><b>NOTE:</b> Every chart from here on, use chart right-side toolbar to:</h3>
 <ul style="text-align:left; font-size:15px;">
   <li style="text-align:left;"><b>PAN</b></li>
-  <li style="text-align:left;"><b>ZOOM</b></li>
+  <li style="text-align:left;"><b>WHEEL/BOX ZOOM</b></li>
   <li style="text-align:left;"><b>HOVER</b> cursor for inspection of data points</li>
   <li style="text-align:left;"><b>RESET</b> to re-align</li>
 </ul>
@@ -232,3 +236,4 @@ More reading in general is a great idea, so I am not partial to either substrate
 Thanks for reading!
 
 *A notebook with just the notation and interactive charts(no code) will be made available soon*
+
