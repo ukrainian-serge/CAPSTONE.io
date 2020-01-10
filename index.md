@@ -198,7 +198,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 **Observation:**
 
 - Above charts top(`Paper`) and bottom(`Digital`) titles are sorted by their respective `star_rating`
-  - In all but three cases(`"Fearless", "Words of Radiance", "Being Mortal"`), `Paper` takes the cake in terms of helpful reviews written
+  - In all but three cases, `"Fearless", "Words of Radiance", "Being Mortal"`, `Paper` takes the cake in terms of helpful reviews written
   
 *NOTE FROM ANALYST: `Words of Radiance` is one book of an excellent fantasy series!*
 
@@ -216,7 +216,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 **Observation:**
 
 - Above charts top(`Paper`) and bottom(`Digital`) titles are sorted by their respective `verified_purchase` sums
-  - In all but one case(`The Fault In Our Stars`), `Paper`, again takes the cake
+  - In all but one case, `The Fault In Our Stars`, `Paper` has higher `verified_purchase` `helpful_review` counts
 
 
 <a id="section4"></a>
