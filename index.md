@@ -182,7 +182,7 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 
 
-<p style="text-align:left; font-size:20px;">Top titles sorted by average star rating with stacked helpful review counts for comparison</p>
+<h2 style="text-align:left; font-size:20px;">Top titles sorted by <b>star rating</b> with stacked <b>helpful review</b> counts for comparison</h2>
 
 <a id="section4"></a>
 
@@ -202,12 +202,12 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
   
 *NOTE FROM ANALYST: `Words of Radiance` is one book of an excellent fantasy series!*
 
-<p style="text-align:left; font-size:20px;">Top 30 titles sorted by verified purchase</p>
+<h2 style="text-align:left; font-size:20px;">Top titles sorted by <b>verified purchase</b> counts with stacked <b>helpful review</b> counts for comparison</h2>
 
 <center><iframe src="./imgs_charts/4_helpful_votes_by_verified_both.html"
     sandbox="allow-same-origin allow-scripts"
-    width="625"
-    height="625"
+    width="650"
+    height="650"
     scrolling="no"
     seamless="seamless"
     frameborder="">
