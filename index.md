@@ -145,7 +145,11 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
 
-<p style="text-align:left; font-size:20px;">2 Month rolling average star rating</p>
+---
+
+<p style="text-align:right;"><b>NOTE</b> Every chart from here on: Use chart right-side toolbar for data inspection</p>
+
+<p style="text-align:left; font-size:20px;">Rolling average star rating Books vs eBooks</p>
 *<i>Use cursor and tool-tips for more granular inspection</i>*
 
 <center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html"
@@ -170,14 +174,14 @@ So ends the intro and hopefully I've nudged you into wanting to either acquaint 
 
 
 
-<p style="text-align:left; font-size:20px;">Top 30 titles sorted by average star rating</p>
+<p style="text-align:left; font-size:20px;">Top titles sorted by average star rating with stacked helpful review counts for comparison</p>
 
 <a id="section4"></a>
 
 <center><iframe src="./imgs_charts/3_helpful_votes_by_stars_both.html"
     sandbox="allow-same-origin allow-scripts"
-    width="625"
-    height="625"
+    width="650"
+    height="650"
     scrolling="no"
     seamless="seamless"
     frameborder="">
