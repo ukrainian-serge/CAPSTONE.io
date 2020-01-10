@@ -224,7 +224,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
   - In all but one case, `The Fault In Our Stars`, `Paper` has higher `verified_purchase` `helpful_review` counts
 
 
-<a id="section4"></a>
+<a id="section5"></a>
 
 <center><img src="./imgs_charts/book_vs_ebook.jpg" atl='book' height="400" width="600"/></center>
 
