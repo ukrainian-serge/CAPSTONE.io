@@ -152,8 +152,10 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
     frameborder="">
 </iframe></center>
 
+
 *For above charts, a random fractional sample of each format was taken(0.01) because of the size of the data set*  
 **Observations:**  
+
 
 - `Digital` has larger sample size and went into full swing on amazon market starting 2014. Despite this, `Paper` reviews seem to be going steady and not declining in frequency.
 
