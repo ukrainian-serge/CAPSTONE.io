@@ -1,6 +1,6 @@
 
 
-<center><h1 style="font-size:50px;">Analysis of  Amazon Review Data: Book vs eBook </h1></center>
+<center><p style="font-size:50px;">Analysis of  Amazon Review Data: Book vs eBook </p></center>
 
 <center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
@@ -14,7 +14,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 
 
-<h2 style="text-align:left; font-size:20px;">Project Index</h2>
+<p style="text-align:left; font-size:20px;">Project Index</p>
 
 *use these hyper links to jump to different sections*
 
@@ -29,7 +29,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 <a id="section1"></a>
 <center><img src="./imgs_charts/in_the_dumps.jpg" atl='in the dumps' height="400" width="600" alt="centered image"/></center>
 
-<center><h3 style="font-size:40px;">The greats read books</h3></center>
+<center><p style="font-size:40px;">The greats read books</p></center>
 
 
 <p style="text-align:left; font-size:30px;">Bill Gates</p>
@@ -87,36 +87,41 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 <center><img src="./imgs_charts/book.jpg" height="400" width="600"></center>
 
 
-<center><h3 style="font-size:50px;">Book or eBook?</h3></center>
+<center><p style="font-size:50px;">Book or eBook?</p></center>
 
 <p>Welcome to the analysis section. Here you will look into the <a href="https://authorsmstevens.com/2019/06/26/the-ebook-vs-printed-book-debate/">book vs ebook</a> debate. I want to investigate what the data contained within the reviews can tell us.</p>
 
 <a id="section2"></a>
 
-<center><h2 style="font-size:40px;">About the data</h2></center>
+<center><p style="font-size:40px;">About the data</p></center>
 
 <ul>
+
   <li style="font-size:15px;"><b>review_id</b></li>
   <ul>
-    <li>unique identifier for each row(observation) </li>
+    <li style="font-size:15px;">unique identifier for each row(observation) </li>
   </ul>
+
   <li style="font-size:15px;"><b>customer_id</b></li>
+
   <li style="font-size:15px;"><b>product_id</b>, eg.,</li>
   <ul>
-    <li>The Gulag Archipelago on <b>paper</b></li>
+    <li style="font-size:15px;">The Gulag Archipelago on <b>paper</b></li>
       <ul>
-        <li>paper back<b> product_id:</b> A001</li>
-        <li>hard cover<b> product_id:</b> A002</li>
+        <li style="font-size:15px;"><b>product_id:</b> A001 paper back</li>
+        <li style="font-size:15px;"><b>product_id:</b> A002 hard cover</li>
         <li><b>...</b></li>
       </ul>
+  
+  <li style="font-size:15px;">The Gulag Archipelago on <b>digital</b></li>
+    <ul>
+      <li style="font-size:15px;"><b>product_id:</b> B001 kindle</li>
+      <li style="font-size:15px;"><b>product_id:</b> B002 audio book</li>
+      <li ><b>...</b>
+    </ul></li>
   </ul>
-  <li>The Gulag Archipelago on <b>digital</b></li>
-      <ul>
-        <li>kindle<b> product_id:</b> B001</li>
-        <li>audio book<b> product_id:</b> B002</li>
-        <li><b>...</b></li>
-      </ul>
-  </ul>
+
+  
 
   <li style="font-size:15px;"><b>product_title</b></li>
 
