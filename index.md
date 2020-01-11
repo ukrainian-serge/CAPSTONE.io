@@ -137,7 +137,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 <center><img src="./imgs_charts/kindle.jpg" atl='book' height="300" width="500"/></center>
 
-<center><h2 style="text-align:center; font-size:40px;">Is paper in danger?</h2></center>
+<center><p style="text-align:center; font-size:40px;">Is paper in danger?</p></center>
 
 <p style="text-align:left; font-size:15px;">Did introduction of digital ebooks produce decline in verified purchases of paper books?</p>
 <a id="section3"></a>
@@ -159,7 +159,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 ---
 
-<h3 style="text-align:left; font-size:15px;"><b>NOTE:</b> Every chart from here on, use chart right-side toolbar to:</h3>
+<p style="text-align:left; font-size:15px;"><b>NOTE:</b> Every chart from here on, use chart right-side toolbar to:</p>
 <ul style="text-align:left; font-size:15px;">
   <li style="text-align:left;"><b>PAN</b></li>
   <li style="text-align:left;"><b>WHEEL/BOX ZOOM</b></li>
@@ -190,11 +190,11 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 <center><img src="./imgs_charts/books_1.jpg" atl='book' height="400" width="600"/></center>
 
-<center><h2 style="font-size:40px;">Analysis of Paper vs Digital Titles</h2></center>
+<center><p style="font-size:40px;">Analysis of Paper vs Digital Titles</p></center>
 
 
 
-<h2 style="text-align:left; font-size:20px;">Top titles sorted by <b>star rating</b> with stacked <b>helpful review</b> counts for comparison</h2>
+<p style="text-align:left; font-size:20px;">Top titles sorted by <b>star rating</b> with stacked <b>helpful review</b> counts for comparison</p>
 
 <a id="section4"></a>
 
@@ -214,7 +214,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
   
 *NOTE FROM ANALYST: `Words of Radiance` is one book of an excellent fantasy series!*
 
-<h2 style="text-align:left; font-size:20px;">Top titles sorted by <b>verified purchase</b> counts with stacked <b>helpful review</b> counts for comparison</h2>
+<p style="text-align:left; font-size:20px;">Top titles sorted by <b>verified purchase</b> counts with stacked <b>helpful review</b> counts for comparison</p>
 
 <center><iframe src="./imgs_charts/4_helpful_votes_by_verified_both.html"
     sandbox="allow-same-origin allow-scripts"
@@ -235,7 +235,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 <center><img src="./imgs_charts/book_vs_ebook.jpg" atl='book' height="400" width="600"/></center>
 
-<h2 style="text-align:left; font-size:50px;">Recommendations</h2>
+<p style="text-align:left; font-size:50px;">Recommendations</p>
 
 According to this simple analysis, `Paper` takes the cake, at least in terms of review quality. My recommendation? Buy whatever you want, but read the `Paper` reviews as they seem to be very helpful according to hundreds of thousands of review-readers.
 More reading in general is a great idea, so I am not partial to either substrate. Also, cost wasn't taken into consideration during this analysis and that can play a large role in decision making of purchases.
