@@ -6,7 +6,7 @@
 
 <!-- <p style="text-align:left; font-size:15px;">Github repo with full jupyter notebooks containing this analysis + data prep and PostgreSQL database creation available <a href="https://github.com/ukrainian-serge/amazon_product_reviews">HERE</a></p> -->
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_product_reviews/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_reviews.io/master)
 
 
 <i>Sergey Kamilchu</i>  

@@ -4,7 +4,7 @@
 
 <p style="text-align:left; font-size:20px;">Static webpage version of this analysis available <a href="https://ukrainian-serge.github.io/amazon_reviews.io/">HERE</a></p>
   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_product_reviews/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_reviews.io/master)
 
 
 
