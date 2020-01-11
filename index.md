@@ -117,8 +117,8 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
     <ul>
       <li style="font-size:15px;"><b>product_id:</b> B001 kindle</li>
       <li style="font-size:15px;"><b>product_id:</b> B002 audio book</li>
-      <li ><b>...</b>
-    </ul></li>
+      <li ><b>...</b></li>
+    </ul>
   </ul>
 
   
