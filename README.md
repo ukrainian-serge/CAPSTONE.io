@@ -2,7 +2,7 @@
     <img src="https://pmcvariety.files.wordpress.com/2018/01/amazon-logo.jpg?w=1000&h=562&crop=1" alt="logo" width="500" height="300"/>
 </p>
 
-<p style="text-align:left; font-size:20px;">Static webpage version of this analysis available <a href="https://ukrainian-serge.github.io/CAPSTONE.io/">HERE</a></p>
+<p style="text-align:left; font-size:20px;">Static webpage version of this analysis available <a href="https://ukrainian-serge.github.io/amazon_reviews.io/">HERE</a></p>
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ukrainian-serge/amazon_product_reviews/master)
 
