@@ -103,19 +103,21 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
   <li style="font-size:15px;"><b>customer_id</b></li>
   <li style="font-size:15px;"><b>product_id</b>, eg.,</li>
   <ul>
-    <li>The Gulag Archipelago on <b>paper</b>
+    <li>The Gulag Archipelago on <b>paper</b></li>
       <ul>
         <li>paper back<b> product_id:</b> A001</li>
         <li>hard cover<b> product_id:</b> A002</li>
         <li><b>...</b></li>
       </ul>
-    <li>The Gulag Archipelago on <b>digital</b>
+  </ul>
+  <li>The Gulag Archipelago on <b>digital</b></li>
       <ul>
         <li>kindle<b> product_id:</b> B001</li>
         <li>audio book<b> product_id:</b> B002</li>
         <li><b>...</b></li>
       </ul>
   </ul>
+
   <li style="font-size:15px;"><b>product_title</b></li>
 
   <li style="font-size:15px;"><a href="https://www.businessinsider.com/how-amazon-review-stars-are-calculated-2019-6"><b>star_rating</b></a></li>
