@@ -36,9 +36,10 @@ Analysis is an excellent field and I've seen some astounding insights that can b
 
 <h3 align="left">Analysis and visualization</h3>
 
- - [Notebook_3]()
-    - [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html) interative charts for analysis
-    
+ - [Notebook_3](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_3.0_FINAL.ipynb) **FINAL**. Contains full notebook, queries, python code and all
+    - [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html) interative charts for analysis and observation notation
+ - [Notebook_3.1](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_3.1_NO_CODE.ipynb) no code with no dependency requirements to run. Markup and interactive charts only.
+ 
 ---
 
 My [module](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/amazon_reviews_module.py) with functions designed for this project.
