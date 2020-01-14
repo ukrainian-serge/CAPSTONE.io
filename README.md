@@ -12,7 +12,7 @@
 
 The goal of this project is extrapolationg interesting human patterns. My intent is to gravitate around digital product reviews vs non-digital product reviews, to compare wether the substrate the media is on effects the way humans review a product title. We'll squeeze as much insight as possible out of this and branch off into other categories for anaysis and comparison.
 
-Analysis is an excellent field and I've seen some astounding insights that can be massaged out of data; with this project, I intend to do the same. The first objective would be starting with really understanding our data. To attain this "data knowledge", I thought it would be prudent to undertake the task of creating a database using the data acquired. My goal is to design the tables in such a way(the data set being extremely large) that would save precious time if the need to revisit this project and analyze it should arise. For this I will use  Python with its handy packages, and my local database management system, PostgreSQL. 
+Analysis is an excellent field and I've seen some astounding insights that can be massaged out of data; with this project, I intend to do the same. The first objective would be starting with really understanding our data. To attain this "data knowledge", I thought it would be prudent to undertake the task of creating a database using the data acquired. My goal is to design the tables in such a way(the data set being extremely large) that would save precious time if the need to revisit this project and analyze it should arise. For this I will use  Python with its handy packages, and my local database management system(psql, PgAdmin). 
 
 
 <h2 align="center">Brief work sequence overview</h2>
