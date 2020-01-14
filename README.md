@@ -46,9 +46,9 @@ My [module](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/not
 
 <h2 align="center">Technologies I used</h2>
 
- - [PostgreSQL](https://www.postgresql.org/download/)  
- - [Jupyter Notebooks/Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) with [nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) of all kinds  
+ - [PostgreSQL](https://www.postgresql.org/download/) for database creation  
+ - [Jupyter Notebooks/Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) with [nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) for bulk of work  
  - [Python](https://www.python.org/) with [Pandas](https://pandas.pydata.org/), [Sqalchemy](https://www.sqlalchemy.org/), [psycopg2](https://pypi.org/project/psycopg2/), [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html), and more
- - [VsCode](https://code.visualstudio.com/) for editing html/markdown files, testing python functions outside of Jupyter Notebooks
- - [Git](https://git-scm.com/) for version controlling project
+ - [VsCode](https://code.visualstudio.com/) for editing html/markdown files and testing python functions outside of Jupyter Notebooks
+ - [Git](https://git-scm.com/) for version control
  - [PowerShell](https://docs.microsoft.com/en-us/powershell/) for automating minor stuff
