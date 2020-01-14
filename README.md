@@ -44,8 +44,11 @@ Analysis is an excellent field and I've seen some astounding insights that can b
 
 My [module](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/amazon_reviews_module.py) with functions designed for this project.
 
-<h2 align="center">Technologies Used</h2>
+<h2 align="center">Technologies I used</h2>
 
  - [PostgreSQL](https://www.postgresql.org/download/)  
  - [Jupyter Notebooks/Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) with [nbextensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/) of all kinds  
  - [Python](https://www.python.org/) with [Pandas](https://pandas.pydata.org/), [Sqalchemy](https://www.sqlalchemy.org/), [psycopg2](https://pypi.org/project/psycopg2/), [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html), and more
+ - [VsCode](https://code.visualstudio.com/) for editing html/markdown files, testing python functions outside of Jupyter Notebooks
+ - [Git](https://git-scm.com/) for version controlling project
+ - [PowerShell](https://docs.microsoft.com/en-us/powershell/) for automating minor stuff
