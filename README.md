@@ -25,12 +25,12 @@ Analysis is an excellent field and I've seen some astounding insights that can b
     
 <h3 align="left">Data wrangle and database creation</h3>
 
- - [Notebook_1](https://github.com/ukrainian-serge/amazon_product_reviews/blob/master/notebooks_queries/NOTEBOOK_1.0.ipynb) initial data parsing and wrangling:
-      - this [notebook](https://github.com/ukrainian-serge/amazon_product_reviews/blob/master/notebooks_queries/NOTEBOOK_1.1_LOG_explore.ipynb) deals with `pandas.read_csv` errors. The error log.txt file is [here](https://github.com/ukrainian-serge/amazon_product_reviews/blob/master/notebooks_queries/Skipping_line_2019.Dec.30%2011.53PM_LOG.txt). 
-      - creation of local posgresql database `amazon_reviews`.
-      - design datatype structure for columns and creation of `reviews` table with inserted values.
+ - [Notebook_1](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_1.0.ipynb) initial data parsing and wrangling:
+      - this [notebook](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_1.1_LOG_explore.ipynb) deals with `pandas.read_csv` errors.
+      - creation of local PosgreSQL database `amazon_reviews`.
+      - design datatype structure for columns and creation of `reviews` tables with inserted values.
     
- - [Notebook_2](https://github.com/ukrainian-serge/amazon_product_reviews/blob/master/notebooks_queries/NOTEBOOK_2.0.ipynb) table creation automation:
+ - [Notebook_2](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_2.0.ipynb) table creation automation:
       - more parse and wrangle.
       - automated the process of splitting initial `reviews` into separate tables(by `product_category`).
 
@@ -41,7 +41,7 @@ Analysis is an excellent field and I've seen some astounding insights that can b
     
 ---
 
-My [module](https://github.com/ukrainian-serge/amazon_product_reviews/blob/master/notebooks_queries/amazon_reviews_module.py) with functions designed for this project.
+My [module](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/amazon_reviews_module.py) with functions designed for this project.
 
 <h2 align="center">Technologies Used</h2>
 
