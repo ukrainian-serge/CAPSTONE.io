@@ -8,7 +8,7 @@
 
 <center><p style="font-size:50px;">Analysis of  Amazon Review Data: Book vs eBook </p></center>
 
-<center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
+<center><img src=./imgs_charts/amazon_opening_logo.jpg atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
 <!-- <p style="text-align:left; font-size:15px;">Github repo with full jupyter notebooks containing this analysis + data prep and PostgreSQL database creation available <a href="https://github.com/ukrainian-serge/amazon_product_reviews">HERE</a></p> -->
 
@@ -182,8 +182,8 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 
 <center><iframe src="./imgs_charts/2_month_rolling_avg_star_ratings.html"
     sandbox="allow-same-origin allow-scripts"
-    width="600"
-    height="450"
+    width="720"
+    height="520"
     scrolling="no"
     seamless="seamless"
     frameborder="">
