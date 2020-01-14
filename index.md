@@ -8,7 +8,7 @@
 
 <center><p style="font-size:50px;">Analysis of  Amazon Review Data: Book vs eBook </p></center>
 
-<center><img src="../imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
+<center><img src="./imgs_charts/amazon_opening_logo.jpg" atl='amazon logo' height="400" width="600" alt="centered image"></center>
 
 <!-- <p style="text-align:left; font-size:15px;">Github repo with full jupyter notebooks containing this analysis + data prep and PostgreSQL database creation available <a href="https://github.com/ukrainian-serge/amazon_product_reviews">HERE</a></p> -->
 
