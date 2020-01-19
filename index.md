@@ -244,6 +244,3 @@ According to this simple analysis, `Paper` takes the cake, at least in terms of 
 More reading in general is a great idea, so I am not partial to either substrate. Also, cost wasn't taken into consideration during this analysis and that can play a large role in decision making of purchases.
 
 Thanks for reading!
-
-*A notebook with just the notation and interactive charts(no code) will be made available soon*
-
