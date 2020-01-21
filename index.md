@@ -1,9 +1,4 @@
 
-<style>
-  body { background-color: white; }
-	li { color: black; }
-  p { color: black; }
-</style>
 
 
 <center><p style="font-size:50px;">Analysis of  Amazon Review Data: Book vs eBook </p></center>
@@ -83,7 +78,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
 <p>A very small list of studies showing the measurable positive changes that reading has on the most important asset we posses in our lifetime: the brain.</p>
 
 <ul>
-  <li style="text-align:left; font-size:15px;"><a href=https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.12272> Increase intelligence</a></li>
+  <li style="text-align:left; font-size:15px;"><a href="https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdev.12272"> Increase intelligence</a></li>
   <li style="text-align:left; font-size:15px;"><a href="https://n.neurology.org/content/81/4/314">It slows mental decline with age</a></li>
   <li style="text-align:left; font-size:15px;"><a href="https://science.sciencemag.org/content/342/6156/377.abstract">Can make you more empathetic</a></li>
 </ul>
@@ -249,6 +244,3 @@ According to this simple analysis, `Paper` takes the cake, at least in terms of 
 More reading in general is a great idea, so I am not partial to either substrate. Also, cost wasn't taken into consideration during this analysis and that can play a large role in decision making of purchases.
 
 Thanks for reading!
-
-*A notebook with just the notation and interactive charts(no code) will be made available soon*
-
