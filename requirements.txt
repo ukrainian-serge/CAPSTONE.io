@@ -1,0 +1,6 @@
+python3.7
+bokeh
+pandas
+numpy
+sqalchemy
+spycopg2
