@@ -122,7 +122,7 @@ Data source: [S3 amazon AWS review data set](https://s3.amazonaws.com/amazon-rev
     </ul>
   </ul>
 
-  
+
 
   <li style="font-size:15px;"><b>product_title</b></li>
 
