@@ -39,6 +39,8 @@ Analysis is an excellent field and I've seen some astounding insights that can b
  - [Notebook_3](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_3.0_FINAL.ipynb) **FINAL**. Contains full notebook, queries, python code and all
     - [Bokeh](https://docs.bokeh.org/en/latest/docs/gallery.html) interative charts for analysis and observation notation
  - [Notebook_3.1](https://github.com/ukrainian-serge/amazon_reviews.io/blob/master/notebooks/NOTEBOOK_3.1_NO_CODE.ipynb) no code with no dependency requirements to run. Markup and interactive charts only.
+
+** Github will not preview the bokeh charts. Repo must be cloned to see charts in Jupyter Notebook form or visit [here]("https://ukrainian-serge.github.io/amazon_reviews.io/")**
  
 ---
 
