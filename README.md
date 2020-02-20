@@ -8,7 +8,7 @@
 
 
 
-<h1  align="center">Database creation with and analysis of Amazon review data</h1>
+<h1  align="center">Database creation and analysis using Amazon review data</h1>
 
 The final goal of this project is to compare digital vs non-digital book reviews and compare whether the substrate the media is on effects the review. We'll squeeze as much insight as possible out of this and branch off into other categories for analysis and comparison.
 
