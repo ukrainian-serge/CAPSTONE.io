@@ -10,9 +10,11 @@
 
 <h1  align="center">Database creation with and analysis of Amazon review data</h1>
 
-The goal of this project is extrapolationg interesting human patterns. My intent is to gravitate around digital product reviews vs non-digital product reviews, to compare wether the substrate the media is on effects the way humans review a product title. We'll squeeze as much insight as possible out of this and branch off into other categories for anaysis and comparison.
+The final goal of this project is to compare digital vs non-digital book reviews and compare whether the substrate the media is on effects the review. We'll squeeze as much insight as possible out of this and branch off into other categories for analysis and comparison.
 
-Analysis is an excellent field and I've seen some astounding insights that can be massaged out of data; with this project, I intend to do the same. The first objective would be starting with really understanding our data. To attain this "data knowledge", I thought it would be prudent to undertake the task of creating a database using the data acquired. My goal is to design the tables in such a way(the data set being extremely large) that would save precious time if the need to revisit this project and analyze it should arise. For this I will use  Python with its handy packages, and my local database management system(psql, PgAdmin). 
+The first objective would be starting with really understanding our data, for this I undertake the task of creating a local database with designed table formatted(PostgreSQL) for revisitation of the project. Thankfully it was a rather clean dataset as it came from a AWS server which led to the next step of EDA with SQL queries and Python pandas.
+
+The final visualizations were done with interactive Bokeh charts on a customized Jupyter Notebook. The below link leads you to the static HTML webpage, and if you wish, from there you can also view it in the github repo which contains the notebooks themselves.
 
 
 <h2 align="center">Brief work sequence overview</h2>
